@@ -18,4 +18,4 @@ ui
 assets
 
 #发布资源
-dist*
+#dist*

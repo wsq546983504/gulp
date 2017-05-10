@@ -1,0 +1,1 @@
+"use strict";function main(){console.log("main function")}main();var aa="aaa",set=function(n){return console.log(n)};set();
